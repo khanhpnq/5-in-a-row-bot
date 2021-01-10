@@ -28,9 +28,7 @@ I'll play with the bot until it can consistently beat me. After that, I'll try t
 The next stage would be implement different rule and retrain the bot with new rule. [to be determined]
 
 ## Data sources and AI methods
-Data source: user created
-
-AI methods: to be determined
+To be determined
 
 ## Challenges
 
