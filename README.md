@@ -12,9 +12,6 @@ Gomoku is a simple and fun game to play for children in Asian countries. The gam
 
 This project was created to be a fun coding experiment, hence why a simple and common game was chosen to be the target. Original gomoku was known to be a sure-win game, which the player who moves first gained significant advantages over the opponent. However, multiple version of gomoku has been developed and published to reduce these imbalances.
 
-<img src="https://user-images.githubusercontent.com/25068709/39445047-08bf324c-4cba-11e8-894a-a361176376fa.png" width="300">
-Image from abarriel - Github: https://github.com/abarriel/Gomoku
-
 ## How is it used?
 
 This project will first try to build the board and rule of the gomoku (19x19 board). [If you want to try the gomoku online, I suggest this website playok.com]
