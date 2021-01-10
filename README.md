@@ -4,7 +4,7 @@
 
 ## Summary
 
-Five-in-a-row (or gomoku) is a common game worldwide. Through its simplicity, the game attracts millions of players. Multiple AI-based bots have been built and won human player in chess and go, however gomoku remains an untouched territory thanks to its simplicity (or lack of interests, who knows).     
+Five-in-a-row (or gomoku) is a common game worldwide, played by millions of players. Multiple AI bots have been built and beat human players in chess and go, however gomoku remains an untouched territory thanks to its simplicity (or lack of interests, who knows).     
 
 ## Background
 
